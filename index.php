@@ -1,0 +1,1 @@
+<?php echo "Declan Testing elastic beanstalk application" ?>
